@@ -1,1 +1,1 @@
-[]
+[{"couname":"[BLM] Twinning Committe of Saint-Barthélemy and Piteå","year":"???","lvlup":"","region":"North America","Colors":["cl_BLA", "cl_BLU", "cl_RED", "cl_YEL", "cl_BRO", "cl_WHI", "cl_GRA"],"Items":["Circle", "Animal", "Texted", "Center", "Nordic","myrWHI","NoStar","NoBand"],"Flag":"https://www.crwflags.com/fotw/images/b/bl_twsbp.gif","HDFlag":"https://www.crwflags.com/fotw/images/b/bl_twsbp.gif","type":"Committee", "describe": "", "isnew": "w4", "links": "https://www.crwflags.com/fotw/flags/bl_locas.html"}]
